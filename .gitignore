@@ -1,0 +1,19 @@
+# Fichiers systèmes Mac
+.DS_Store
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+env/
+venv/
+ENV/
+VENV/
+
+# Dossiers de projets d’IDE
+.idea/
+.vscode/
+
